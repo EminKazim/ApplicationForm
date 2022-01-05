@@ -1,0 +1,19 @@
+.title h1  {
+    text-align: center;
+
+}
+.confirmbt{
+    text-align: center;
+    
+}
+button{
+    height:40px;
+    transition: all 0.5s;
+cursor: pointer;
+    width: 100px;
+    background-color: rgb(113, 146, 189);
+}
+body{
+    background-image: url(./images/using-html5-canvas-to-make-a-generative-background-1.jpeg);
+}
+ 
